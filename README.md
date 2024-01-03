@@ -1,1 +1,1 @@
-# Heart_Disease_Predictions-Using_Supervised_Learning
+# Heart_Disease_Predictions-Using_Machine_Learning
